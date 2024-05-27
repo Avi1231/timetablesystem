@@ -1,1 +1,1 @@
-# timetablesystem
+# timetablesystem : Timetable generator
